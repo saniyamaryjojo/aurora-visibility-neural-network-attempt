@@ -1,0 +1,70 @@
+slug,name,country,region,hemisphere,lat,lon,geomagnetic_lat,min_kp_index,timezone,season,best_months,visibility_jan,visibility_feb,visibility_mar,visibility_apr,visibility_may,visibility_jun,visibility_jul,visibility_aug,visibility_sep,visibility_oct,visibility_nov,visibility_dec
+longyearbyen,Longyearbyen,Norway,Svalbard,N,78.22,15.65,75.3,0,Arctic/Longyearbyen,Late September to mid-March (incl. daytime polar-night aurora),Nov/Dec/Jan/Feb,3,3,2,1,0,0,0,0,2,3,3,3
+kangerlussuaq,Kangerlussuaq,Greenland,Greenland,N,67.01,-50.69,73.2,0,America/Nuuk,September to April,Sep/Oct/Nov/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+iqaluit,Iqaluit,Canada,Canada,N,63.75,-68.52,71.5,0,America/Iqaluit,Late August to April,Sep/Oct/Nov/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+nuuk,Nuuk,Greenland,Greenland,N,64.18,-51.69,70.5,0,America/Nuuk,September to April,Sep/Oct/Nov/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+churchill,Churchill,Canada,Canada,N,58.77,-94.17,68.6,0,America/Winnipeg,Mid-August to March,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+yellowknife,Yellowknife,Canada,Canada,N,62.45,-114.37,68.5,0,America/Yellowknife,Mid-August to April,Sep/Oct/Mar/Nov,3,3,3,1,0,0,0,1,3,3,3,3
+nordkapp,North Cape (Nordkapp),Norway,Norway,N,70.98,25.97,67.4,0,Europe/Oslo,Late September to early April,Oct/Nov/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+hammerfest,Hammerfest,Norway,Norway,N,70.66,23.68,67.2,0,Europe/Oslo,Late September to early April,Oct/Nov/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+coldfoot,Coldfoot,United States,Alaska,N,67.25,-150.18,67.1,0,America/Anchorage,Late August to mid-April,Sep/Mar/Oct/Feb,3,3,3,1,0,0,0,1,3,3,3,3
+tromso,Tromsø,Norway,Norway,N,69.65,18.96,66.6,1,Europe/Oslo,Late September to early April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+alta,Alta,Norway,Norway,N,69.97,23.27,66.6,1,Europe/Oslo,Late September to early April,Oct/Nov/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+andenes,Andenes,Norway,Norway,N,69.32,16.12,66.6,1,Europe/Oslo,Late September to early April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+fort-smith,Fort Smith,Canada,Canada,N,60,-111.89,66.5,1,America/Edmonton,Mid-August to April,Sep/Oct/Mar/Nov,3,3,3,1,0,0,0,1,3,3,3,3
+senja,Senja,Norway,Norway,N,69.3,17.5,66.4,1,Europe/Oslo,Late September to early April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+utsjoki,Utsjoki,Finland,Finland,N,69.91,27.02,66.3,1,Europe/Helsinki,Late August to early April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+isafjordur,Ísafjörður,Iceland,Iceland,N,66.07,-23.13,66.3,1,Atlantic/Reykjavik,September to mid-April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+vardo,Vardø,Norway,Norway,N,70.37,31.11,66.2,1,Europe/Oslo,Late September to early April,Oct/Nov/Dec/Feb,3,3,3,1,0,0,0,1,3,3,3,3
+karasjok,Karasjok,Norway,Norway,N,69.47,25.51,66.1,1,Europe/Oslo,Late September to early April,Oct/Nov/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+harstad,Harstad,Norway,Norway,N,68.8,16.54,66,1,Europe/Oslo,Late September to early April,Oct/Nov/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+akureyri,Akureyri,Iceland,Iceland,N,65.69,-18.11,66,1,Atlantic/Reykjavik,September to mid-April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+kautokeino,Kautokeino,Norway,Norway,N,69.01,23.04,65.8,1,Europe/Oslo,Late September to early April,Oct/Nov/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+kilpisjarvi,Kilpisjärvi,Finland,Finland,N,69.05,20.8,65.8,1,Europe/Helsinki,Late September to early April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+chena-hot-springs,Chena Hot Springs,United States,Alaska,N,65.05,-146.05,65.8,1,America/Anchorage,Late August to mid-April,Sep/Mar/Oct/Feb,3,3,3,1,0,0,0,1,3,3,3,3
+narvik,Narvik,Norway,Norway,N,68.44,17.43,65.7,1,Europe/Oslo,Late September to early April,Oct/Nov/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+bjorkliden,Björkliden,Sweden,Sweden,N,68.42,18.66,65.7,1,Europe/Stockholm,Late September to late March,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+kirkenes,Kirkenes,Norway,Norway,N,69.73,30.05,65.6,1,Europe/Oslo,Late September to early April,Oct/Nov/Dec/Feb,3,3,3,1,0,0,0,1,3,3,3,3
+abisko,Abisko,Sweden,Sweden,N,68.35,18.83,65.6,1,Europe/Stockholm,Late September to late March,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+lofoten,Lofoten,Norway,Norway,N,68.2,13.8,65.5,1,Europe/Oslo,Late September to early April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+dawson-city,Dawson City,Canada,Canada,N,64.06,-139.43,65.5,1,America/Dawson,Late August to April,Sep/Oct/Mar/Feb,3,3,3,1,0,0,0,1,3,3,3,3
+inari,Inari,Finland,Finland,N,68.91,27.03,65.4,1,Europe/Helsinki,Late August to early April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+svolvaer,Svolvær,Norway,Norway,N,68.23,14.57,65.4,1,Europe/Oslo,Late September to early April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+fairbanks,Fairbanks,United States,Alaska,N,64.84,-147.72,65.3,1,America/Anchorage,Late August to mid-April,Sep/Mar/Oct/Feb,3,3,3,1,0,0,0,1,3,3,3,3
+grundarfjordur,Grundarfjörður (Kirkjufell),Iceland,Iceland,N,64.92,-23.27,65.2,1,Atlantic/Reykjavik,September to mid-April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+ivalo,Ivalo,Finland,Finland,N,68.66,27.54,65.1,1,Europe/Helsinki,Late August to early April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+kiruna,Kiruna,Sweden,Sweden,N,67.86,20.23,65,1,Europe/Stockholm,Late September to late March,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+egilsstadir,Egilsstaðir,Iceland,Iceland,N,65.26,-14.39,65,1,Atlantic/Reykjavik,September to mid-April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+jukkasjarvi,Jukkasjärvi,Sweden,Sweden,N,67.85,20.6,64.9,1,Europe/Stockholm,Late September to late March,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+saariselka,Saariselkä,Finland,Finland,N,68.42,27.41,64.9,1,Europe/Helsinki,Late August to early April,Sep/Oct/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+bodo,Bodø,Norway,Norway,N,67.28,14.4,64.6,2,Europe/Oslo,October to March,Oct/Nov/Feb/Mar,3,3,3,1,0,0,0,1,3,3,3,3
+reykjavik,Reykjavík,Iceland,Iceland,N,64.15,-21.94,64.3,2,Atlantic/Reykjavik,September to mid-April,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+muonio,Muonio,Finland,Finland,N,67.96,23.68,64.3,2,Europe/Helsinki,Late September to early April,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+thingvellir,Þingvellir,Iceland,Iceland,N,64.26,-21.13,64.3,2,Atlantic/Reykjavik,September to mid-April,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+gallivare,Gällivare,Sweden,Sweden,N,67.13,20.66,64.2,2,Europe/Stockholm,October to March,Oct/Nov/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+hofn,Höfn,Iceland,Iceland,N,64.25,-15.21,64.2,2,Atlantic/Reykjavik,September to mid-April,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+denali,Denali (Healy),United States,Alaska,N,63.73,-148.91,64.1,2,America/Anchorage,Late August to mid-April,Sep/Mar/Oct/Feb,3,3,3,2,1,0,0,2,3,3,3,3
+levi,Levi,Finland,Finland,N,67.8,24.8,64,2,Europe/Helsinki,September to early April,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+sodankyla,Sodankylä,Finland,Finland,N,67.42,26.59,63.9,2,Europe/Helsinki,September to early April,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+jokkmokk,Jokkmokk,Sweden,Sweden,N,66.61,19.83,63.9,2,Europe/Stockholm,October to March,Oct/Nov/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+yllas,Ylläs,Finland,Finland,N,67.6,24.16,63.9,2,Europe/Helsinki,Late September to early April,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+mo-i-rana,Mo i Rana,Norway,Norway,N,66.31,14.14,63.7,2,Europe/Oslo,October to March,Oct/Nov/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+rovaniemi,Rovaniemi,Finland,Finland,N,66.5,25.73,63.6,2,Europe/Helsinki,Late August to early April,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+pyha-luosto,Pyhä-Luosto,Finland,Finland,N,67.15,27.24,63.6,2,Europe/Helsinki,October to March,Oct/Nov/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+whitehorse,Whitehorse,Canada,Canada,N,60.72,-135.05,63.4,2,America/Whitehorse,Late August to April,Sep/Oct/Mar/Nov,3,3,3,2,1,0,0,2,3,3,3,3
+vik,Vík í Mýrdal,Iceland,Iceland,N,63.42,-19.01,63.2,2,Atlantic/Reykjavik,September to mid-April,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+lulea,Luleå,Sweden,Sweden,N,65.58,22.15,62.8,2,Europe/Stockholm,October to March,Oct/Nov/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+fort-mcmurray,Fort McMurray,Canada,Canada,N,56.73,-111.38,62.8,2,America/Edmonton,September to March,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+kuusamo,Kuusamo (Ruka),Finland,Finland,N,65.96,29.19,62.6,3,Europe/Helsinki,October to March,Oct/Nov/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+talkeetna,Talkeetna,United States,Alaska,N,62.32,-150.11,62.5,3,America/Anchorage,Late September to March,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+oulu,Oulu,Finland,Finland,N,65.01,25.47,62.2,3,Europe/Helsinki,October to March,Oct/Nov/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+anchorage,Anchorage,United States,Alaska,N,61.22,-149.9,61.5,3,America/Anchorage,Late September to March,Sep/Oct/Feb/Mar,3,3,3,2,1,0,0,2,3,3,3,3
+ushuaia,Ushuaia,Argentina,Patagonia,S,-54.8,-68.3,-44,5,America/Argentina/Ushuaia,Southern winter — April to August,Jun/Jul/May,0,1,2,2,3,3,3,2,2,1,0,0
+invercargill,Invercargill,New Zealand,New Zealand,S,-46.41,168.35,-52.4,5,Pacific/Auckland,Southern winter — March to September,Jun/Jul/May,0,1,2,2,3,3,3,2,2,1,0,0
+stewart-island,Stewart Island (Rakiura),New Zealand,New Zealand,S,-46.9,168.12,-52.9,5,Pacific/Auckland,Southern winter — March to September,Jun/Jul/May,0,1,2,2,3,3,3,2,2,1,0,0
+queenstown-nz,Queenstown,New Zealand,New Zealand,S,-45.03,168.66,-51,6,Pacific/Auckland,Southern winter — March to September,Jun/Jul/May,0,1,2,2,3,3,3,2,2,1,0,0
+hobart,Hobart,Australia,Tasmania,S,-42.88,147.33,-51.5,6,Australia/Hobart,Southern winter — April to September,Jun/Jul/May,0,1,2,2,3,3,3,2,2,1,0,0
+dunedin,Dunedin,New Zealand,New Zealand,S,-45.87,170.5,-51.5,6,Pacific/Auckland,Southern winter — March to September,Jun/Jul/May,0,1,2,2,3,3,3,2,2,1,0,0
+bruny-island,Bruny Island,Australia,Tasmania,S,-43.38,147.25,-52,6,Australia/Hobart,Southern winter — April to September,Jun/Jul/May,0,1,2,2,3,3,3,2,2,1,0,0
+christchurch,Christchurch,New Zealand,New Zealand,S,-43.53,172.64,-48.9,7,Pacific/Auckland,Southern winter — March to September,Jun/Jul/May,0,1,2,2,3,3,3,2,2,1,0,0
+lake-tekapo,Lake Tekapo,New Zealand,New Zealand,S,-44,170.48,-49.7,7,Pacific/Auckland,Southern winter — March to September,Jun/Jul/May,0,1,2,2,3,3,3,2,2,1,0,0
